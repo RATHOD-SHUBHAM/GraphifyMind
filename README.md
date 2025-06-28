@@ -40,4 +40,12 @@ GraphifyMind/
 
 ---
 
+<img width="1052" alt="Image" src="https://github.com/user-attachments/assets/5b4da3cb-2155-4458-8235-d14467761acd" />
+
+<img width="1037" alt="Image" src="https://github.com/user-attachments/assets/29716218-e57d-462a-9086-ea41d66927c3" />
+
+---
+
+Folder Structure
+<img width="308" alt="Image" src="https://github.com/user-attachments/assets/f03e82a7-5541-40c4-8664-25b9b2a67d26" />
 
