@@ -1,7 +1,8 @@
 # GraphifyMind
-# GraphifyMind
 
 **GraphifyMind** is a Streamlit application that transforms plain text or PDF documents into interactive knowledge graphs, powered by Large Language Models (LLMs), graph databases, and AI-driven visualization.
+
+Docker Image: [Link](https://hub.docker.com/r/gibbo96/knowledgegraph)
 
 ---
 
