@@ -93,7 +93,8 @@ Instead of building locally, you can pull the pre-built image directly from Dock
    Docker Image: [Link](https://hub.docker.com/r/gibbo96/knowledgegraph)
    
    ```bash
-   docker pull your-dockerhub-username/graphifymind:latest
+   docker pull your-dockerhub-username/knowledgegraph:latest
+   Eg: docker pull gibbo96/knowledgegraph:latest
    ```
 
 3. **Run the container**, mounting local folders for persistence:
@@ -107,7 +108,8 @@ Instead of building locally, you can pull the pre-built image directly from Dock
    ```
    or
    ```
-   docker run -p 8501:8501 knowledgegraph
+   docker run -p 8501:8501 your-dockerhub-username/knowledgegraph:latest
+   Eg: docker run -p 8501:8501 gibbo96/knowledgegraph:latest
    ```
 
 4. **Visit** `http://localhost:8501` in your browser.
